@@ -1,0 +1,71 @@
+appeal_id,campaign_id,name,type,seasonal,start_date,end_date,goal_amount,description
+1,1,Phone-a-thon - Earth Protectors Annual Fund,Phone-a-thon,Regular,25/06/2022,12/07/2022,50000,Phone-a-thon appeal for Earth Protectors Annual Fund
+2,1,Phone-a-thon - Earth Protectors Annual Fund,Phone-a-thon,Regular,24/09/2022,10/10/2022,10000,Phone-a-thon appeal for Earth Protectors Annual Fund
+3,1,Giving Tuesday - Earth Protectors Annual Fund,Giving Tuesday,Regular,24/12/2022,07/01/2023,25000,Giving Tuesday appeal for Earth Protectors Annual Fund
+4,2,Corporate Partnerships - Wildlands Corridor Acquisition,Corporate Partnerships,Regular,25/09/2023,09/11/2023,10000,Corporate Partnerships appeal for Wildlands Corridor Acquisition
+5,2,Corporate Partnerships - Wildlands Corridor Acquisition,Corporate Partnerships,Regular,18/02/2024,11/03/2024,10000,Corporate Partnerships appeal for Wildlands Corridor Acquisition
+6,2,Board Giving - Wildlands Corridor Acquisition,Board Giving,Regular,13/07/2024,05/08/2024,10000,Board Giving appeal for Wildlands Corridor Acquisition
+7,2,Major Donor Cultivation - Wildlands Corridor Acquisition,Major Donor Cultivation,Regular,06/12/2024,30/12/2024,50000,Major Donor Cultivation appeal for Wildlands Corridor Acquisition
+8,3,Social Media Challenge - Forest Fire Recovery,Social Media Challenge,Regular,03/07/2021,14/07/2021,5000,Social Media Challenge appeal for Forest Fire Recovery
+9,3,Email Campaign - Forest Fire Recovery,Email Campaign,Regular,17/08/2021,25/08/2021,25000,Email Campaign appeal for Forest Fire Recovery
+10,3,Social Media Challenge - Forest Fire Recovery,Social Media Challenge,Regular,01/10/2021,03/10/2021,50000,Social Media Challenge appeal for Forest Fire Recovery
+11,4,Email Campaign - Ocean Plastics Initiative,Email Campaign,Regular,06/11/2023,10/11/2023,5000,Email Campaign appeal for Ocean Plastics Initiative
+12,4,Direct Mail - Ocean Plastics Initiative,Direct Mail,Regular,05/01/2024,20/01/2024,10000,Direct Mail appeal for Ocean Plastics Initiative
+13,5,Social Media Challenge - Endangered Species Protection,Social Media Challenge,Regular,23/11/2023,01/12/2023,25000,Social Media Challenge appeal for Endangered Species Protection
+14,5,Social Media Challenge - Endangered Species Protection,Social Media Challenge,Regular,22/01/2024,02/02/2024,50000,Social Media Challenge appeal for Endangered Species Protection
+15,6,Email Campaign - Youth Environmental Leadership,Email Campaign,Regular,04/05/2024,18/05/2024,10000,Email Campaign appeal for Youth Environmental Leadership
+16,6,Monthly Giving Program - Youth Environmental Leadership,Monthly Giving Program,Regular,18/06/2024,09/07/2024,10000,Monthly Giving Program appeal for Youth Environmental Leadership
+17,6,Direct Mail - Youth Environmental Leadership,Direct Mail,Regular,02/08/2024,28/08/2024,25000,Direct Mail appeal for Youth Environmental Leadership
+18,7,Monthly Giving Program - Native Plant Restoration,Monthly Giving Program,Regular,13/07/2023,11/08/2023,25000,Monthly Giving Program appeal for Native Plant Restoration
+19,7,Monthly Giving Program - Native Plant Restoration,Monthly Giving Program,Regular,11/09/2023,19/10/2023,50000,Monthly Giving Program appeal for Native Plant Restoration
+20,8,Giving Tuesday - Clean Water Action,Giving Tuesday,Giving Tuesday,23/11/2022,01/12/2022,25000,Giving Tuesday appeal for Clean Water Action
+21,8,Social Media Challenge - Clean Water Action,Social Media Challenge,Regular,16/08/2022,29/08/2022,10000,Social Media Challenge appeal for Clean Water Action
+22,8,Social Media Challenge - Clean Water Action,Social Media Challenge,Regular,30/09/2022,04/10/2022,25000,Social Media Challenge appeal for Clean Water Action
+23,8,Social Media Challenge - Clean Water Action,Social Media Challenge,Regular,14/11/2022,17/11/2022,5000,Social Media Challenge appeal for Clean Water Action
+24,9,Corporate Partnerships - Conservation Science Center,Corporate Partnerships,Regular,20/11/2023,05/12/2023,25000,Corporate Partnerships appeal for Conservation Science Center
+25,9,Major Donor Cultivation - Conservation Science Center,Major Donor Cultivation,Regular,20/07/2024,24/08/2024,50000,Major Donor Cultivation appeal for Conservation Science Center
+26,10,Monthly Giving Program - Year-End Sustainability Drive,Monthly Giving Program,Regular,04/04/2024,28/04/2024,50000,Monthly Giving Program appeal for Year-End Sustainability Drive
+27,10,Phone-a-thon - Year-End Sustainability Drive,Phone-a-thon,Regular,04/07/2024,13/08/2024,5000,Phone-a-thon appeal for Year-End Sustainability Drive
+28,10,Giving Tuesday - Year-End Sustainability Drive,Giving Tuesday,Regular,03/10/2024,11/10/2024,5000,Giving Tuesday appeal for Year-End Sustainability Drive
+29,11,Year-End Appeal - Community Garden Network,Direct Mail,December,01/12/2024,31/12/2024,100000,Year-end appeal for Community Garden Network
+30,11,Giving Tuesday - Community Garden Network,Giving Tuesday,Giving Tuesday,23/11/2024,01/12/2024,25000,Giving Tuesday appeal for Community Garden Network
+31,11,Monthly Giving Program - Community Garden Network,Monthly Giving Program,Regular,04/12/2024,15/01/2025,50000,Monthly Giving Program appeal for Community Garden Network
+32,11,Direct Mail - Community Garden Network,Direct Mail,Regular,18/01/2025,17/02/2025,5000,Direct Mail appeal for Community Garden Network
+33,11,Monthly Giving Program - Community Garden Network,Monthly Giving Program,Regular,04/03/2025,06/04/2025,25000,Monthly Giving Program appeal for Community Garden Network
+34,12,Volunteer Fundraising - Renewable Energy Transition,Volunteer Fundraising,Regular,15/02/2025,31/03/2025,50000,Volunteer Fundraising appeal for Renewable Energy Transition
+35,12,Email Campaign - Renewable Energy Transition,Email Campaign,Regular,16/04/2025,25/04/2025,25000,Email Campaign appeal for Renewable Energy Transition
+36,13,Corporate Partnerships - Green Gala Annual Dinner,Corporate Partnerships,Regular,09/01/2024,03/02/2024,25000,Corporate Partnerships appeal for Green Gala Annual Dinner
+37,13,Event - Green Gala Annual Dinner,Event,Regular,23/02/2024,24/02/2024,50000,Event appeal for Green Gala Annual Dinner
+38,13,Social Media Challenge - Green Gala Annual Dinner,Social Media Challenge,Regular,08/04/2024,16/04/2024,50000,Social Media Challenge appeal for Green Gala Annual Dinner
+39,14,Corporate Partnerships - Trail Blazer 5K Run/Walk,Corporate Partnerships,Regular,21/01/2025,08/02/2025,50000,Corporate Partnerships appeal for Trail Blazer 5K Run/Walk
+40,14,Social Media Challenge - Trail Blazer 5K Run/Walk,Social Media Challenge,Regular,07/03/2025,18/03/2025,10000,Social Media Challenge appeal for Trail Blazer 5K Run/Walk
+41,14,Corporate Partnerships - Trail Blazer 5K Run/Walk,Corporate Partnerships,Regular,21/04/2025,28/05/2025,50000,Corporate Partnerships appeal for Trail Blazer 5K Run/Walk
+42,15,Social Media Challenge - Hike-a-Thon: Miles for Wildlife,Social Media Challenge,Regular,23/06/2024,04/07/2024,25000,Social Media Challenge appeal for Hike-a-Thon: Miles for Wildlife
+43,15,Social Media Challenge - Hike-a-Thon: Miles for Wildlife,Social Media Challenge,Regular,29/07/2024,03/08/2024,10000,Social Media Challenge appeal for Hike-a-Thon: Miles for Wildlife
+44,15,Corporate Partnerships - Hike-a-Thon: Miles for Wildlife,Corporate Partnerships,Regular,03/09/2024,16/10/2024,5000,Corporate Partnerships appeal for Hike-a-Thon: Miles for Wildlife
+45,15,Peer to Peer - Hike-a-Thon: Miles for Wildlife,Peer to Peer,Regular,09/10/2024,05/11/2024,25000,Peer to Peer appeal for Hike-a-Thon: Miles for Wildlife
+46,16,Social Media Challenge - Eco Film Festival,Social Media Challenge,Regular,06/04/2021,20/04/2021,5000,Social Media Challenge appeal for Eco Film Festival
+47,16,Peer to Peer - Eco Film Festival,Peer to Peer,Regular,05/06/2021,22/06/2021,5000,Peer to Peer appeal for Eco Film Festival
+48,17,Social Media Challenge - River Cleanup Day,Social Media Challenge,Regular,07/08/2024,18/08/2024,25000,Social Media Challenge appeal for River Cleanup Day
+49,17,Peer to Peer - River Cleanup Day,Peer to Peer,Regular,21/09/2024,06/10/2024,5000,Peer to Peer appeal for River Cleanup Day
+50,17,Peer to Peer - River Cleanup Day,Peer to Peer,Regular,05/11/2024,28/11/2024,5000,Peer to Peer appeal for River Cleanup Day
+51,18,Social Media Challenge - Sustainable Living Expo,Social Media Challenge,Regular,25/05/2023,05/06/2023,5000,Social Media Challenge appeal for Sustainable Living Expo
+52,18,Peer to Peer - Sustainable Living Expo,Peer to Peer,Regular,24/07/2023,30/08/2023,5000,Peer to Peer appeal for Sustainable Living Expo
+53,19,Event - Polar Plunge for Climate Action,Event,Regular,09/10/2024,10/10/2024,5000,Event appeal for Polar Plunge for Climate Action
+54,19,Social Media Challenge - Polar Plunge for Climate Action,Social Media Challenge,Regular,08/12/2024,17/12/2024,50000,Social Media Challenge appeal for Polar Plunge for Climate Action
+55,20,Peer to Peer - Cycling for Conservation,Peer to Peer,Regular,26/03/2021,02/05/2021,50000,Peer to Peer appeal for Cycling for Conservation
+56,20,Peer to Peer - Cycling for Conservation,Peer to Peer,Regular,01/05/2021,04/06/2021,25000,Peer to Peer appeal for Cycling for Conservation
+57,20,Event - Cycling for Conservation,Event,Regular,06/06/2021,07/06/2021,25000,Event appeal for Cycling for Conservation
+58,20,Event - Cycling for Conservation,Event,Regular,12/07/2021,13/07/2021,25000,Event appeal for Cycling for Conservation
+59,21,Social Media Challenge - Moonlight Paddle Fundraiser,Social Media Challenge,Regular,18/01/2022,24/01/2022,10000,Social Media Challenge appeal for Moonlight Paddle Fundraiser
+60,21,Corporate Partnerships - Moonlight Paddle Fundraiser,Corporate Partnerships,Regular,04/03/2022,13/04/2022,25000,Corporate Partnerships appeal for Moonlight Paddle Fundraiser
+61,21,Event - Moonlight Paddle Fundraiser,Event,Regular,18/04/2022,19/04/2022,50000,Event appeal for Moonlight Paddle Fundraiser
+62,22,Event - Bird-a-Thon Counting Challenge,Event,Regular,23/08/2021,24/08/2021,25000,Event appeal for Bird-a-Thon Counting Challenge
+63,22,Peer to Peer - Bird-a-Thon Counting Challenge,Peer to Peer,Regular,07/10/2021,26/10/2021,5000,Peer to Peer appeal for Bird-a-Thon Counting Challenge
+64,22,Event - Bird-a-Thon Counting Challenge,Event,Regular,21/11/2021,22/11/2021,10000,Event appeal for Bird-a-Thon Counting Challenge
+65,23,Peer to Peer - Tree Planting Day,Peer to Peer,Regular,20/12/2022,25/01/2023,25000,Peer to Peer appeal for Tree Planting Day
+66,23,Social Media Challenge - Tree Planting Day,Social Media Challenge,Regular,25/01/2023,02/02/2023,10000,Social Media Challenge appeal for Tree Planting Day
+67,23,Social Media Challenge - Tree Planting Day,Social Media Challenge,Regular,02/03/2023,09/03/2023,50000,Social Media Challenge appeal for Tree Planting Day
+68,23,Peer to Peer - Tree Planting Day,Peer to Peer,Regular,07/04/2023,22/05/2023,5000,Peer to Peer appeal for Tree Planting Day
+69,24,Social Media Challenge - Nature Photography Auction,Social Media Challenge,Regular,13/10/2021,18/10/2021,50000,Social Media Challenge appeal for Nature Photography Auction
+70,24,Corporate Partnerships - Nature Photography Auction,Corporate Partnerships,Regular,12/12/2021,12/01/2022,50000,Corporate Partnerships appeal for Nature Photography Auction
