@@ -20,27 +20,20 @@ The fundraising team from an environmental charity would like to understand more
 >_Tools used and their applications_
 
 #### 1.1 Usage of Excel
-Why?
-* Familiarity and comfort over SQL
-* Alternatives better suited for other purposes
-  
-How?
-* Usage of Power Pivot add-on
-* Utilizing Pivot Tables for analysis and visuals’ creation
-* Using helper columns and formulas where necessary
+|  |  |
+| :- | :- |
+| Why? | <li>Familiarity and comfort over SQL</li><li>Alternatives better suited for other purposes</li> |
+| How? | <li>Usage of Power Pivot add-on</li><li>Utilizing Pivot Tables for analysis and visuals’ creation</li><li>Using helper columns and formulas where necessary</li> |
+|  |  |
 
 #### 1.2 Data Cleaning
-Dates in Transactions[date] not in standardized form –
-* 8th Apr 2025
-* 16th Mar 2025
-
-Data Type Conversion from ‘Text’ to ‘Currency’ for –
-* Campaigns[goal_amount]
-* Appeals[goal_amount]
-* Transactions[amount]
+|  |  |
+| :- | :- |
+| Dates in Transactions[date] not in standardized form | <li>8th Apr 2025</li><li>16th Mar 2025</li> |
+| Data Type Conversion from ‘Text’ to ‘Currency’ | <li>Campaigns[goal_amount]</li><li>Appeals[goal_amount]</li><li>Transactions[amount]</li> |
+|  |  |
 
 #### 1.3 Relationships between tables
-
 | Table 1 | Cardinality | Filter Direction | Table 2 |
 | :- | :- | :- | :- | 
 | transactions[appeal_id] | Many to One | << To transactions | appeals[appeal_id] | 
