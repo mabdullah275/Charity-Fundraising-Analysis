@@ -45,6 +45,7 @@ Establishing correct relationships –
 * Allows pivot tables to connect and aggregate data seamlessly across multiple tables.
 * Ensure data accuracy and consistency in analysis.
 
+---
 ### 2. Supporter Insights
 
 #### 2.1 Demographics
@@ -137,6 +138,7 @@ Establishing correct relationships –
   </tr>
 </table>
 
+---
 ### 3. Fundraising Performance
 
 #### 3.1 Campaign-level Performance
@@ -211,6 +213,7 @@ Most transactions out of appeal date range occurred almost a year after the appe
 #### 3.3 Fund Performance
 <img src="images/3.3%20Funds%20Raised.png">
 
+---
 ### 4. Temporal Analysis
 >_Analysis of time-related data_
 
@@ -223,6 +226,7 @@ Most transactions out of appeal date range occurred almost a year after the appe
 #### 4.2 Fundraising Heatmap
 <img src="images/4.2%20Fundraising%20Heatmap.png">
 
+---
 ### 5. Additional Insights
 1\. Negative transaction values found; requires investigation.
 
