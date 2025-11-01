@@ -61,3 +61,31 @@ Establishing correct relationships –
 <img src="images/2.2%20Donor%20Behaviour.png">
 > [!IMPORTANT]
 > Donors with at least two donations, including one in 2024 or later, are considered regular.
+
+#### 2.3 Preferred Payment Methods
+<img src="images/2.3%20Preferred%20Payment%20Methods.png">
+
+#### 2.4 Top Supporters
+<table>
+<tr><th>Top 5 Individual Supporters</th><th>Top 5 Organization Supporters</th></tr>
+<tr>
+<td>
+| Supporter ID | Full Name | Avg Donation Amount |
+| :-: | :-: | :-: |
+| 2749 | Richard Thompson | £112,717.24 |
+| 2243 | Angela Kelly  | £83,817.38 |
+| 1980 | Sandra Stewart | £71,852.93 |
+| 4169 | Jessica Gilmore | £70,051.86 |
+| 3905 | William Chang | £67,543.65 |
+</td>
+<td>
+|Supporter ID| Full Name | Avg Donation Amount|
+| :-: | :-: | :-: |
+| 433 | Whitaker PLC | £636,840.54 |
+| 465 | Lane, Brooks and Wagner | £274,361.61 |
+| 480 | Rodriguez Inc | £260,868.75 |
+| 203 | Garcia-Novak | £250,337.06 |
+| 434 | Chambers-Strickland | £244,459.82 |
+</td>
+</tr> 
+</table>
