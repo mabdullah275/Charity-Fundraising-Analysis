@@ -40,7 +40,13 @@ Data Type Conversion from ‘Text’ to ‘Currency’ for –
 * Transactions[amount]
 
 #### 1.3 Relationships between tables
-![1.3 - Relationships between tables](/images/1.3%20Relationships%20between%20tables.jpg)
+
+| Table 1 | Cardinality | Filter Direction | Table 2 |
+| :- | :- | :- | :- | 
+| transactions[appeal_id] | Many to One | << To transactions | appeals[appeal_id] | 
+| transactions[campaign_id] | Many to One | << To transactions | campaigns[campaign_id] |
+| transactions[fund_id] | Many to One | << To transactions | funds[fund_id] | 
+| transactions[supporter_id] | Many to One | << To transactions | supporters[constituent_id] | 
 
 Establishing correct relationships –
 * Allows pivot tables to connect and aggregate data seamlessly across multiple tables.
