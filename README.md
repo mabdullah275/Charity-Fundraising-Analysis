@@ -6,10 +6,11 @@ Analyzing a fundraising dataset to evaluate data quality, supporter behaviour, a
 ## Scenario
 The fundraising team from an environmental charity would like to understand more about the quality of their data, the supporters they have and their giving behaviour, and the performance of the charity’s fundraising activities. My task is to explore the data, analyse and extract key insights from the data and present my findings.
 
-### Definitions & Clarifications
-* A ‘Fund’ is an allocation of funds to a particular purpose, ie. how that money can be spent by the charity.
-* A ‘Campaign’ is a broad categorisation of fundraising activities. A single Campaign can have multiple Appeals associated with it.
-* An ‘Appeal’ is a more granular categorisation of fundraising activities. Each Appeal is associated with one Campaign.
+| Term | Definition & Clarification |
+| :- | :- |
+| Fund | An allocation of funds to a particular purpose, ie. how that money can be spent by the charity. |
+| Campaign | A broad categorisation of fundraising activities. A single Campaign can have multiple Appeals associated with it. |
+| Appeal | A more granular categorisation of fundraising activities. Each Appeal is associated with one Campaign. |
 
 > [!NOTE]
 > The dataset was provided with limited context, based only on the information outlined in this section.
@@ -18,7 +19,7 @@ The fundraising team from an environmental charity would like to understand more
 ### 1. Methodology
 >_Tools used and their applications_
 
-#### 1.1 Usage of MS Excel
+#### 1.1 Usage of Excel
 Why?
 * Familiarity and comfort over SQL
 * Alternatives better suited for other purposes
@@ -44,4 +45,3 @@ Data Type Conversion from ‘Text’ to ‘Currency’ for –
 Establishing correct relationships –
 * Allows pivot tables to connect and aggregate data seamlessly across multiple tables.
 * Ensure data accuracy and consistency in analysis.
-
