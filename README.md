@@ -209,4 +209,4 @@ Most transactions out of appeal date range occurred almost a year after the appe
 > *Difference in transactions due to ‘Social Media Challenge - Trail Blazer 5K Run/Walk’ appeal (07/03/25 – 18/03/25) not being within the date range of its campaign (07/12/24 – 05/06/25).
 
 #### 3.3 Fund Performance
-<img src="images/3.3%20Fund%20Performance.png">
+<img src="images/3.3%20Funds%20Raised.png">
