@@ -210,3 +210,40 @@ Most transactions out of appeal date range occurred almost a year after the appe
 
 #### 3.3 Fund Performance
 <img src="images/3.3%20Funds%20Raised.png">
+
+### 4. Temporal Analysis
+>_Analysis of time-related data_
+
+#### 4.1 Yearly Fundraising Performance
+<img src="4.1%20Yearly%20Fundraising%20Performance">
+
+> [!NOTE]
+> 2025/26 financial year started on 1st April 2025
+
+#### 4.2 Fundraising Heatmap
+<img src="4.2%20Fundraising%20Heatmap">
+
+### 5. Additional Insights
+1\. Negative transaction values found; requires investigation.
+
+| Transaction ID | Date | Financial Year | Financial Period | Amount |
+| :-: | :-: | :-: | :-: | :-: |
+| 18958 | 19/08/2024 | 2024/25 | P05 | -£540,389.22 |
+| 34845 | 29/01/2025 | 2024/25 | P10 | -£358,546.14 |
+
+2\. No strong correlation between appeal timings and whether they reach fundraising goals.
+
+| Appeal Name | F Year | P01 | P02 | P03 | P04 | P05 | P06 | P07 | P08 | P09 | P10 | P11 | P12 |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Board Giving - Wildlands Corridor Acquisition | 2024/25 |   |   | X |   |   |   |   |   |   |   |   |   |
+| Peer to Peer - Hike-a-Thon: Miles for Wildlife | 2024/25 |   |   |   |   |   | X |   |   |   |   |   |   |
+| Peer to Peer - Eco Film Festival | 2021/22 |   |   |   | X |   |   |   |   |   |   |   |   |
+| Peer to Peer - River Cleanup Day | 2024/25 |   |   |   |   | X |   |   |   |   |   |   |   |
+| Peer to Peer - River Cleanup Day | 2024/25 |   |   |   |   |   |   |   | X |   |   |   |   |
+| Peer to Peer - Sustainable Living Expo | 2023/24 |   |   |   |   |   |   |   |   | X |   |   |   |
+| Peer to Peer - Cycling for Conservation | 2024/25 |   |   |   |   |   |   |   |   |   |   | X |   |
+| Peer to Peer - Cycling for Conservation | 2021/22 |   |   |   |   |   |   | X |   |   |   |   |   |
+| Peer to Peer - Bird-a-Thon Counting Challenge | 2021/22 |   |   |   |   |   |   |   |   |   | X |   |   |
+| Peer to Peer - Tree Planting Day | 2022/23 |   |   |   |   |   |   |   |   |   |   |   | X |
+| Peer to Peer - Tree Planting Day | 2023/24 | X |   |   |   |   |   |   |   |   |   |   |   |
+| **Grand Total** |   | **1** | **1** | **1** | **2** | **0** | **1** | **2** | **1** | **1** | **1** | **0** | **1** |
