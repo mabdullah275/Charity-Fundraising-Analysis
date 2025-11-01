@@ -136,3 +136,77 @@ Establishing correct relationships –
     </td>
   </tr>
 </table>
+
+### 3. Fundraising Performance
+
+#### 3.1 Campaign-level Performance
+| Campaign Name | Total Appeals |
+| :- | :-: |
+| Earth Protectors Annual Fund | 3 |
+| Wildlands Corridor Acquisition | 4 |
+| Forest Fire Recovery | 3 |
+| Ocean Plastics Initiative | 2 |
+| Endangered Species Protection | 2 |
+| Youth Environmental Leadership | 3 |
+| Native Plant Restoration | 2 |
+| Clean Water Action | 4 |
+| Conservation Science Center | 2 |
+| Year-End Sustainability Drive | 3 |
+| Community Garden Network | 5 |
+| Renewable Energy Transition | 2 |
+| Green Gala Annual Dinner | 3 |
+| Trail Blazer 5K Run/Walk | 3 |
+| Hike-a-Thon: Miles for Wildlife | 4 |
+| Eco Film Festival | 2 |
+| River Cleanup Day | 3 |
+| Sustainable Living Expo | 2 |
+| Polar Plunge for Climate Action | 2 |
+| Cycling for Conservation | 4 |
+| Moonlight Paddle Fundraiser | 3 |
+| Bird-a-Thon Counting Challenge | 2 |
+| Tree Planting Day | 4 |
+| Nature Photography Auction | 2 |
+
+<img src="images/3.1%20Campaign-level%20Performance.png">
+
+##### 3.1.1 Funds Raised Outside Timeframe
+| Within campaign timeframe? | Total Transactions | Funds Raised |
+| :-: | :-: | :-: |
+| No | 34 | £195,740.68 |
+| Yes | 44706 | £197,368,871.80 |
+
+Funds raised outside of campaign date range all came from –
+* Year-End Sustainability Drive (Campaign ID 10)
+* Green Gala Annual Dinner (Campaign ID 13)
+
+#### 3.2 Appeal Performance
+Out of 70 appeals, 59 (~84%) appeals reached their goal amount. The following eleven appeals not only failed to reach their goals, they did not receive a single donation -
+| Appeal Name | Financial Year | Goal Amount |
+| :- | :-: | :-: |
+| Board Giving - Wildlands Corridor Acquisition | 2024/25 | £10,000.00 |
+| Peer to Peer - Hike-a-Thon: Miles for Wildlife | 2024/25 | £25,000.00 |
+| Peer to Peer - Eco Film Festival | 2021/22 | £5,000.00 |
+| Peer to Peer - River Cleanup Day (Appeal ID 49) | 2024/25 | £5,000.00 |
+| Peer to Peer - River Cleanup Day (Appeal ID 50) | 2024/25 | £5,000.00 |
+| Peer to Peer - Sustainable Living Expo | 2023/24 | £5,000.00 |
+| Peer to Peer - Cycling for Conservation | 2024/25 | £50,000.00 |
+| Peer to Peer - Cycling for Conservation | 2021/22 | £25,000.00 |
+| Peer to Peer - Bird-a-Thon Counting Challenge | 2021/22 | £5,000.00 |
+| Peer to Peer - Tree Planting Day | 2022/23 | £25,000.00 |
+| Peer to Peer - Tree Planting Day | 2023/24 | £5,000.00 |
+
+##### 3.2.1 Funds Raised Outside Timeframe
+| Within appeal timeframe? | Total Transactions | Funds Raised |
+| :-: | :-: | :-: |
+| No | 35* | £195,740.68 |
+| Yes | 44,705* | £197,368,871.80 |
+
+Most transactions out of appeal date range occurred almost a year after the appeal ended. Majority of outside timeframe transactions occurred for –
+* Monthly Giving Program - Year-End Sustainability Drive (Appeal ID 26)
+* Social Media Challenge - Green Gala Annual Dinner (Appeal ID 38)
+
+> [!NOTE]
+> *Difference in transactions due to ‘Social Media Challenge - Trail Blazer 5K Run/Walk’ appeal (07/03/25 – 18/03/25) not being within the date range of its campaign (07/12/24 – 05/06/25).
+
+#### 3.3 Fund Performance
+<img src="images/3.3%20Fund%20Performance.png">
