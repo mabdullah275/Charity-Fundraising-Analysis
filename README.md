@@ -68,25 +68,78 @@ Establishing correct relationships –
 
 #### 2.4 Top Supporters
 <table>
-<tr><th>Top 5 Individual Supporters</th><th>Top 5 Organization Supporters</th></tr>
-<tr>
-<td>
-| Supporter ID | Full Name | Avg Donation Amount |
-| :-: | :-: | :-: |
-| 2749 | Richard Thompson | £112,717.24 |
-| 2243 | Angela Kelly  | £83,817.38 |
-| 1980 | Sandra Stewart | £71,852.93 |
-| 4169 | Jessica Gilmore | £70,051.86 |
-| 3905 | William Chang | £67,543.65 |
-</td>
-<td>
-|Supporter ID| Full Name | Avg Donation Amount|
-| :-: | :-: | :-: |
-| 433 | Whitaker PLC | £636,840.54 |
-| 465 | Lane, Brooks and Wagner | £274,361.61 |
-| 480 | Rodriguez Inc | £260,868.75 |
-| 203 | Garcia-Novak | £250,337.06 |
-| 434 | Chambers-Strickland | £244,459.82 |
-</td>
-</tr> 
+  <tr>
+    <th>Top 5 Individual Supporters</th>
+    <th>Top 5 Organization Supporters</th>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <th>ID</th>
+          <th>Full Name</th>
+          <th>Avg Donation Amount</th>
+        </tr>
+        <tr>
+          <td>2749</td>
+          <td>Richard Thompson</td>
+          <td>£112,717.24</td>
+        </tr>
+        <tr>
+          <td>2243</td>
+          <td>Angela Kelly</td>
+          <td>£83,817.38</td>
+        </tr>
+        <tr>
+          <td>1980</td>
+          <td>Sandra Stewart</td>
+          <td>£71,852.93</td>
+        </tr>
+        <tr>
+          <td>4169</td>
+          <td>Jessica Gilmore</td>
+          <td>£70,051.86</td>
+        </tr>
+        <tr>
+          <td>3905</td>
+          <td>William Chang</td>
+          <td>£67,543.65</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <th>ID</th>
+          <th>Organization Name</th>
+          <th>Avg Donation Amount</th>
+        </tr>
+        <tr>
+          <td>433</td>
+          <td>Whitaker PLC</td>
+          <td>£636,840.54</td>
+        </tr>
+        <tr>
+          <td>465</td>
+          <td>Lane, Brooks and Wagner</td>
+          <td>£274,361.61</td>
+        </tr>
+        <tr>
+          <td>480</td>
+          <td>Rodriguez Inc</td>
+          <td>£260,868.75</td>
+        </tr>
+        <tr>
+          <td>203</td>
+          <td>Garcia-Novak</td>
+          <td>£250,337.06</td>
+        </tr>
+        <tr>
+          <td>434</td>
+          <td>Chambers-Strickland</td>
+          <td>£244,459.82</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 </table>
