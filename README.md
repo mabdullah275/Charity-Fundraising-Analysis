@@ -59,5 +59,6 @@ Establishing correct relationships –
 
 #### 2.2 Donor Behaviour
 <img src="images/2.2%20Donor%20Behaviour.png">
+
 > [!IMPORTANT]
 > Donors with at least two donations, including one in 2024 or later, are considered regular.
