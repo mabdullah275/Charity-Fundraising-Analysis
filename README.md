@@ -1,7 +1,7 @@
 # Charity Fundraising Analysis
 Analyzing a fundraising dataset to evaluate data quality, supporter behaviour, and fundraising performance.<br/><br/>
 **Skills:** Data Cleaning, Data Visualization, Data Analysis. <br>
-**Tools:** Microsoft Excel (Power Pivot, PivotTable), Microsoft Powerpoint.
+**Tools:** Microsoft Excel, Microsoft Powerpoint.
 
 ## Scenario
 The fundraising team from an environmental charity would like to understand more about the quality of their data, the supporters they have and their giving behaviour, and the performance of the charity’s fundraising activities. My task is to explore the data, analyse and extract key insights from the data and present my findings.
