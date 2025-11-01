@@ -215,13 +215,13 @@ Most transactions out of appeal date range occurred almost a year after the appe
 >_Analysis of time-related data_
 
 #### 4.1 Yearly Fundraising Performance
-<img src="4.1%20Yearly%20Fundraising%20Performance">
+<img src="images/4.1%20Yearly%20Fundraising%20Performance.png">
 
 > [!NOTE]
 > 2025/26 financial year started on 1st April 2025
 
 #### 4.2 Fundraising Heatmap
-<img src="4.2%20Fundraising%20Heatmap">
+<img src="images/4.2%20Fundraising%20Heatmap.png">
 
 ### 5. Additional Insights
 1\. Negative transaction values found; requires investigation.
