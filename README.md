@@ -40,8 +40,13 @@ Data Type Conversion from ‘Text’ to ‘Currency’ for –
 * Transactions[amount]
 
 #### 1.3 Relationships between tables
-![1.3 Relationships between tables](/images/1.3%20Relationships%20between%20tables.jpg)
+![1.3 - Relationships between tables](/images/1.3%20Relationships%20between%20tables.jpg)
 
 Establishing correct relationships –
 * Allows pivot tables to connect and aggregate data seamlessly across multiple tables.
 * Ensure data accuracy and consistency in analysis.
+
+### 2. Supporter Insights
+
+#### 2.1 Demographics
+<img src="images/2.1%20Demographics.png">
